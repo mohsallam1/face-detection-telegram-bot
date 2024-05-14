@@ -32,7 +32,7 @@ The `capture_and_detect` function continuously captures video frames from the we
 
 1. Replace the placeholder values for `BOT_TOKEN` and `CHAT_ID` with your actual bot token and chat ID.
 2. Run the `script.py` script to start the Telegram bot.
-3. Interact with the bot by sending messages to the specified chat. Use the "img" command to capture and send a video frame with detected faces.
+3. Interact with the bot by sending messages to the specified chat. Use the "img" command to capture and send the current frame with.
 
 ## Dependencies
 
